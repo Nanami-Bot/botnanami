@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aidil Tipi
 <p align="center">
-<img src="https://ibb.co/fn0VKd0/images-20200505-wa0086" width="230" height="230"/>
+<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
 </p>
 <br>
 
