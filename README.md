@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aidil Tipi
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
 </p>
@@ -10,7 +10,7 @@
 <a href="#"><img title="😎AIDIL TIPI😎" src="https://img.shields.io/badge/AIDIL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Nanami-Bot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MASLENT GANS-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Nanami-Bot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AIDIL TIPI-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/nanami/botnanami/badge/main"></a>
@@ -74,6 +74,10 @@ Ket: Aktiv 24 jam
 * [`Instagram Admin`](https://instagram.com/aidil.tipi)
 * [`WhatsApp Admin `](https://wa.me/+62895704959080)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+
+* [`AidilTipi`](https://github.com/AidilTipi/termux-whatsapp-bot)
+
+* [`AnkerProduction`](https://github.com/AnkerProduction/termux-whatsapp-bot)
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
